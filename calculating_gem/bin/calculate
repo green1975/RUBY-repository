@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'calculating_gem.rb'
+puts CalculatingGem.(ARGV[0])	
